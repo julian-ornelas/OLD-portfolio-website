@@ -1,11 +1,18 @@
 $dark-color: #000000;
 
 $light-background: #F0EAD6;
+$callout-background: #53A38F;
+$button-background: #87CEFA;
 
-.dark{
-    background-color: $dark-color;
+
+.light-background {
+    background-color: $light-background;
 }
 
 .card-body {
-    background-color: $light-background;
+    background-color: $callout-background;
+}
+
+.btn-primary {
+    background-color: $button-background;
 }

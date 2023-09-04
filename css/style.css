@@ -1,7 +1,11 @@
-.dark {
-  background-color: #000000;
+.light-background {
+  background-color: #F0EAD6;
 }
 
 .card-body {
-  background-color: #F0EAD6;
+  background-color: #53A38F;
+}
+
+.btn-primary {
+  background-color: #87CEFA;
 }/*# sourceMappingURL=style.css.map */
