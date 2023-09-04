@@ -1,7 +1,7 @@
 $dark-color: #000000;
-
-$light-background: #F0EAD6;
-$callout-background: #53A38F;
+$navbar-background: #463f36;
+$light-background: #F7F4E9;
+$callout-background: #0FA3B1;
 $button-background: #87CEFA;
 
 
@@ -15,4 +15,11 @@ $button-background: #87CEFA;
 
 .btn-primary {
     background-color: $button-background;
+}
+.nav-link {
+    color: $callout-background;
+}
+
+.navbar-background{
+    background-color: $navbar-background;
 }

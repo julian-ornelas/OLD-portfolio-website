@@ -1,11 +1,19 @@
 .light-background {
-  background-color: #F0EAD6;
+  background-color: #F7F4E9;
 }
 
 .card-body {
-  background-color: #53A38F;
+  background-color: #0FA3B1;
 }
 
 .btn-primary {
   background-color: #87CEFA;
+}
+
+.nav-link {
+  color: #0FA3B1;
+}
+
+.navbar-background {
+  background-color: #463f36;
 }/*# sourceMappingURL=style.css.map */
