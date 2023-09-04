@@ -1,5 +1,11 @@
 $dark-color: #000000;
 
+$light-background: #F0EAD6;
+
 .dark{
     background-color: $dark-color;
+}
+
+.card-body {
+    background-color: $light-background;
 }
