@@ -1,6 +1,7 @@
 $dark-color: #000000;
 $dark-background: #463f36;
 $light-background: #F7F4E9;
+$column-background: #F0EAD6;
 $callout-background: #0FA3B1;
 $button-background: #87CEFA;
 
@@ -22,5 +23,10 @@ $button-background: #87CEFA;
 
 .dark-background{
     background-color: $dark-background;
+    border-style: solid;
+}
+
+.column-background{
+    background-color: $column-background;
     border-style: solid;
 }
