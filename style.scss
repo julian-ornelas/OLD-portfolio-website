@@ -16,6 +16,10 @@ $header-text: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: $callout-background;
 }
 
+.active {
+    color: $callout-background;
+}
+
 .btn-primary {
     background-color: $button-background;
 }

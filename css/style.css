@@ -6,6 +6,10 @@
   background-color: #0FA3B1;
 }
 
+.active {
+  color: #0FA3B1;
+}
+
 .btn-primary {
   background-color: #87CEFA;
 }
