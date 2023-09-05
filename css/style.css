@@ -43,4 +43,15 @@ h1 {
 
 ul li {
   font-size: 1.2rem;
+}
+
+.bg-image {
+  background-image: url(images/Neural\ Network.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }/*# sourceMappingURL=style.css.map */
