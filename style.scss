@@ -5,6 +5,8 @@ $column-background: #F0EAD6;
 $callout-background: #0FA3B1;
 $button-background: #87CEFA;
 
+$body-text: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+$header-text: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
 .light-background {
     background-color: $light-background;
@@ -27,6 +29,18 @@ $button-background: #87CEFA;
 }
 
 .column-background{
-    background-color: $column-background;
-    border-style: solid;
+    background-color: $callout-background;
+}
+
+.nav-item {
+    font-family: $body-text;
+}
+
+p {
+    font-size: 1.2rem;
+    font-family: $body-text;
+}
+
+h1 {
+    font-family: $header-text;
 }

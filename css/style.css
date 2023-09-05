@@ -20,6 +20,18 @@
 }
 
 .column-background {
-  background-color: #F0EAD6;
-  border-style: solid;
+  background-color: #0FA3B1;
+}
+
+.nav-item {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p {
+  font-size: 1.2rem;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }/*# sourceMappingURL=style.css.map */
