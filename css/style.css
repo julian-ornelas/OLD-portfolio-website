@@ -47,6 +47,7 @@ ul li {
 
 .bg-image {
   background-image: url("../images/Neural Network.png");
+  background: hsla(0, 0%, 0%, 0.6);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
