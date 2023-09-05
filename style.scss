@@ -1,5 +1,5 @@
 $dark-color: #000000;
-$navbar-background: #463f36;
+$dark-background: #463f36;
 $light-background: #F7F4E9;
 $callout-background: #0FA3B1;
 $button-background: #87CEFA;
@@ -20,6 +20,7 @@ $button-background: #87CEFA;
     color: $callout-background;
 }
 
-.navbar-background{
-    background-color: $navbar-background;
+.dark-background{
+    background-color: $dark-background;
+    border-style: solid;
 }
