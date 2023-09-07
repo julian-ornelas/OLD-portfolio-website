@@ -8,6 +8,10 @@ $button-background: #87CEFA;
 $body-text: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 $header-text: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
+#chosen-nav {
+    color: $callout-background;
+}
+
 .light-background {
     background-color: $light-background;
 }
@@ -45,7 +49,7 @@ p {
     font-family: $body-text;
 }
 
-h1 {
+.title {
     font-family: $header-text;
 }
 
