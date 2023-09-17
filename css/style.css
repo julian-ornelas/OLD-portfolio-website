@@ -62,4 +62,11 @@ ul li {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.pdf-container {
+  max-width: 90vw;
+  margin: 0 auto;
+  background-color: #0FA3B1;
+  padding: 10px;
 }/*# sourceMappingURL=style.css.map */

@@ -75,3 +75,10 @@ ul {
     align-items: center;
     justify-content: center;
   }
+
+.pdf-container {
+    max-width: 90vw;
+    margin: 0 auto;
+    background-color: $callout-background;
+    padding: 10px;
+}
