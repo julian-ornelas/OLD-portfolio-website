@@ -82,3 +82,22 @@ ul {
     background-color: $callout-background;
     padding: 10px;
 }
+
+.bottom-padding {
+    padding-bottom: 0.5rem;
+}
+
+.footer {
+    
+    a:link {
+        color: $dark-background
+    }
+    a:visited {
+        color:blueviolet
+    }
+    a:hover {
+        color:red
+    }
+    
+
+}
